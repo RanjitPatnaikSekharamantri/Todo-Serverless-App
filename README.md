@@ -1,6 +1,9 @@
 # Serverless TODO
-
+### Github link: https://github.com/RanjitPatnaik/Todo-Serverless-App
 To implement this project, you need to implement a simple TODO application using AWS Lambda and Serverless framework. Search for all comments starting with the `TODO:` in the code to find the placeholders that you need to implement.
+## Github link
+https://github.com/RanjitPatnaik/Todo-Serverless-App
+
 
 # Functionality of the application
 
